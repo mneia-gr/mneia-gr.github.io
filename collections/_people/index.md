@@ -8,7 +8,7 @@ layout: "page"
 <ul>
 {% for person in people %}
   <li>
-    <a href="{{ person.url }}">{{ person.title }}</a>
+    <a href="{{ person.url }}?{{ person.name }}">{{ person.name }}</a>
   </li>
 {% endfor %}
 </ul>
