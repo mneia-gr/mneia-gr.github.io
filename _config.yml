@@ -63,6 +63,8 @@ collections:
     output: true
   magazines:
     output: true
+  magazine-issues:
+    output: true
 
 defaults:
   - scope:
@@ -75,3 +77,8 @@ defaults:
       type: "magazines"
     values:
       layout: "magazines"
+  - scope:
+      path: ""
+      type: "magazine-issues"
+    values:
+      layout: "magazine-issues"
