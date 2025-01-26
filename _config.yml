@@ -61,6 +61,8 @@ collections_dir: collections
 collections:
   people:
     output: true
+  magazines:
+    output: true
 
 defaults:
   - scope:
@@ -68,3 +70,8 @@ defaults:
       type: "people"
     values:
       layout: "people"
+  - scope:
+      path: ""
+      type: "magazines"
+    values:
+      layout: "magazines"

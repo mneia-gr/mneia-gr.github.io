@@ -4,7 +4,7 @@ permalink: "/people/"
 layout: "page"
 ---
 
-{% assign people = site.people | where_exp: "people", "people.url != '/people/'" %}
+{% assign people = site.people | where_exp: "person", "person.url != '/people/'" %}
 <ul>
 {% for person in people %}
   <li>
