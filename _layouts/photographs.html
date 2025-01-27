@@ -14,3 +14,15 @@ layout: default
         {% include reference-magazine-issue-photograph.html reference=reference %}
     {% endfor %}
 </ul>
+
+<h2>Σύνδεσμοι</h2>
+<h3>Πρόσωπα</h3>
+
+<ul>
+{% for link in page.links.people %}
+    <li>
+        Photograph {{ page.name }} {{ link.link_phrase }} person
+        <a href="/people/{{ link.person.id }}/?{{ link.person.name }}">{{ link.person.name }}</a>.
+    </li>
+{% endfor %}
+</ul>

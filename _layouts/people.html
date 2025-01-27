@@ -4,4 +4,15 @@ layout: default
 
 <h1>{{ page.name }}</h1>
 
-{{ page.content }}
+<h2>Σύνδεσμοι</h2>
+
+<h3>Φωτογραφίες</h3>
+
+<ul>
+{% for link in page.links.photographs %}
+    <li>
+        Person {{ page.name }} {{ link.link_phrase }} photograph
+        <a href="/photographs/{{ link.photograph.id }}/?{{ link.photograph.name }}">{{ link.photograph.name }}</a>.
+    </li>
+{% endfor %}
+</ul>
