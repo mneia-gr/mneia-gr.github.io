@@ -65,6 +65,8 @@ collections:
     output: true
   magazine-issues:
     output: true
+  photographs:
+    output: true
 
 defaults:
   - scope:
@@ -82,3 +84,8 @@ defaults:
       type: "magazine-issues"
     values:
       layout: "magazine-issues"
+  - scope:
+      path: ""
+      type: "photographs"
+    values:
+      layout: "photographs"

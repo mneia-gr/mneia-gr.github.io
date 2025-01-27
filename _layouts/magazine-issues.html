@@ -4,26 +4,15 @@ layout: default
 
 <h1>{{ page.issue_number }}</h1>
 
-Τεύχος του περιοδικού «<a href="/magazines/{{ page.magazine.id}}/?{{ page.magazine.name }}">{{ page.magazine.name }}</a>» με ημερομηνία έκδοσης {{ page.date_published }}.
+Τεύχος του περιοδικού «<a href="/magazines/{{ page.magazine.id}}/?{{ page.magazine.name }}">{{ page.magazine.name
+  }}</a>» με ημερομηνία έκδοσης {{ page.date_published }}.
 
 <h2>Αναφορές</h2>
 
 <h3>Φωτογραφίες</h3>
 
 <ul>
-{% for reference in page.references.photographs %}
-  <li>
-    <i>
-        <a href="/photographs/{{ reference.photograph.id }}/?{{ reference.photograph.name }}">
-            {{ reference.photograph.name }}
-        </a>
-    </i> [Φωτογραφία].
-    <i>
-        Περιοδικό <a href="/magazines/{{ reference.magazine.id }}/?{{ reference.magazine.name }}">
-            {{ reference.magazine.name }}</a>,
-    </i>
-    τεύχος «{{ reference.magazine_issue.issue_number }}»,
-    σελίδα {{ reference.attributes.page }}.
-  </li>
-{% endfor %}
+    {% for reference in page.references.photographs %}
+      {% include reference-magazine-issue-photograph.html reference=reference %}
+    {% endfor %}
 </ul>

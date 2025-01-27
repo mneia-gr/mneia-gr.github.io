@@ -1,0 +1,14 @@
+<li>
+    <i>
+        <a href="/photographs/{{ reference.photograph.id }}/?{{ reference.photograph.name }}">
+            {{ reference.photograph.name }}
+        </a>
+    </i> [Φωτογραφία].
+    <i>
+        Περιοδικό <a href="/magazines/{{ reference.magazine.id }}/?{{ reference.magazine.name }}">
+            {{ reference.magazine.name }}</a>,
+    </i>
+    τεύχος
+    «<a href="/magazine-issues/{{ reference.magazine_issue.id }}/? {{ reference.magazine_issue.issue_number }}">{{ reference.magazine_issue.issue_number }}</a>»,
+    σελίδα {{ reference.attributes.page }}.
+</li>

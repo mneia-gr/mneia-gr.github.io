@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<h1>{{ page.name }}</h1>
+
+{{ page.description }}
+
+<h2>Αναφορές</h2>
+<h3>Τεύχη περιοδικών</h3>
+
+<ul>
+    {% for reference in page.references.magazine_issues %}
+        {% include reference-magazine-issue-photograph.html reference=reference %}
+    {% endfor %}
+</ul>
