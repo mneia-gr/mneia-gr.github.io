@@ -8,7 +8,7 @@ layout: "page"
 <ul>
 {% for magazine-issue in magazine-issues %}
   <li>
-    <a href="{{ magazine-issue.url }}?{{ magazine-issue.issue_number }}">{{ magazine-issue.issue_number }}</a>
+    <a href="{{ magazine-issue.url }}?{{ magazine-issue.issue_number }}">{{magazine-issue.magazine.name}} &ndash; {{ magazine-issue.issue_number }}</a>
   </li>
 {% endfor %}
 </ul>
