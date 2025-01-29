@@ -9,6 +9,7 @@ layout: default
 
 <h2>Αναφορές</h2>
 
+{% if page.references.photographs.size > 0 %}
 <h3>Φωτογραφίες</h3>
 
 <ul>
@@ -16,3 +17,4 @@ layout: default
       {% include reference-magazine-issue-photograph.html reference=reference %}
     {% endfor %}
 </ul>
+{% endif %}
