@@ -4,6 +4,8 @@ layout: default
 
 <h1>{{ page.name }}</h1>
 
+{{ page.content }}
+
 {% if page.issues.size > 0 %}
 <h2>Τεύχη</h2>
 <ol>
@@ -12,5 +14,3 @@ layout: default
 {% endfor %}
 </ol>
 {% endif %}
-
-{{ page.content }}
