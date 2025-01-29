@@ -6,6 +6,7 @@ layout: default
 
 <h2>Σύνδεσμοι</h2>
 
+{% if page.links.photographs.size > 0 %}
 <h3>Φωτογραφίες</h3>
 
 <ul>
@@ -16,3 +17,17 @@ layout: default
     </li>
 {% endfor %}
 </ul>
+{% endif %}
+
+{% if page.links.works.size > 0 %}
+<h3>Έργα</h3>
+
+<ul>
+{% for link in page.links.works %}
+    <li>
+        Person {{ page.name }} {{ link.link_phrase }} work
+        <a href="/works/{{ link.work.id }}/?{{ link.work.name }}">{{ link.work.name }}</a>.
+    </li>
+{% endfor %}
+</ul>
+{% endif %}
