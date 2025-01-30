@@ -2,32 +2,34 @@
 layout: default
 ---
 
-<h1>{{ page.name }}</h1>
+<div itemscope itemtype="https://schema.org/Person">
+  <h1 itemprop="name">{{ page.name }}</h1>
 
-<h2>Σύνδεσμοι</h2>
+  <h2>Σύνδεσμοι</h2>
 
-{% if page.links.photographs.size > 0 %}
-<h3>Φωτογραφίες</h3>
+  {% if page.links.photographs.size > 0 %}
+  <h3>Φωτογραφίες</h3>
 
-<ul>
-{% for link in page.links.photographs %}
+  <ul>
+    {% for link in page.links.photographs %}
     <li>
-        Person {{ page.name }} {{ link.link_phrase }} photograph
-        <a href="/photographs/{{ link.photograph.id }}/?{{ link.photograph.name }}">{{ link.photograph.name }}</a>.
+      Person {{ page.name }} {{ link.link_phrase }} photograph
+      <a href="/photographs/{{ link.photograph.id }}/?{{ link.photograph.name }}">{{ link.photograph.name }}</a>.
     </li>
-{% endfor %}
-</ul>
-{% endif %}
+    {% endfor %}
+  </ul>
+  {% endif %}
 
-{% if page.links.works.size > 0 %}
-<h3>Έργα</h3>
+  {% if page.links.works.size > 0 %}
+  <h3>Έργα</h3>
 
-<ul>
-{% for link in page.links.works %}
+  <ul>
+    {% for link in page.links.works %}
     <li>
-        Person {{ page.name }} {{ link.link_phrase }} work
-        <a href="/works/{{ link.work.id }}/?{{ link.work.name }}">{{ link.work.name }}</a>.
+      Person {{ page.name }} {{ link.link_phrase }} work
+      <a href="/works/{{ link.work.id }}/?{{ link.work.name }}">{{ link.work.name }}</a>.
     </li>
-{% endfor %}
-</ul>
-{% endif %}
+    {% endfor %}
+  </ul>
+  {% endif %}
+</div>

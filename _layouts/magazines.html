@@ -2,15 +2,18 @@
 layout: default
 ---
 
-<h1>{{ page.name }}</h1>
+<div itemscope itemtype="https://schema.org/Periodical">
+  <h1 itemprop="name">{{ page.name }}</h1>
 
-{{ page.content }}
+  {{ page.content }}
 
-{% if page.issues.size > 0 %}
-<h2>Τεύχη</h2>
-<ol>
-{% for issue in page.issues %}
-  <li><a href="/magazine-issues/{{ issue.id }}/?{{ issue.issue_number }}">{{ issue.issue_number }} ({{ issue.date_published }})</a></li>
-{% endfor %}
-</ol>
-{% endif %}
+  {% if page.issues.size > 0 %}
+  <h2>Τεύχη</h2>
+  <ol>
+    {% for issue in page.issues %}
+    <li><a href="/magazine-issues/{{ issue.id }}/?{{ issue.issue_number }}">{{ issue.issue_number }} ({{
+        issue.date_published }})</a></li>
+    {% endfor %}
+  </ol>
+  {% endif %}
+</div>

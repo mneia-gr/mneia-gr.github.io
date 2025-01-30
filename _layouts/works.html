@@ -2,19 +2,21 @@
 layout: default
 ---
 
-<h1>{{ page.name }}</h1>
+<div itemscope itemtype="https://schema.org/CreativeWork">
+  <h1 itemprop="name">{{ page.name }}</h1>
 
-{{ page.content }}
+  <div itemprop="text">{{ page.content }}</div>
 
-<h2>Σύνδεσμοι</h2>
+  <h2>Σύνδεσμοι</h2>
 
-<h3>Πρόσωπα</h3>
+  <h3>Πρόσωπα</h3>
 
-<ul>
-{% for link in page.links.people %}
+  <ul>
+    {% for link in page.links.people %}
     <li>
-        Work <i>{{ page.name }}</i> {{ link.link_phrase }} person
-        <a href="/people/{{ link.person.id }}/?{{ link.person.name }}">{{ link.person.name }}</a>.
+      Work <i>{{ page.name }}</i> {{ link.link_phrase }} person
+      <a href="/people/{{ link.person.id }}/?{{ link.person.name }}">{{ link.person.name }}</a>.
     </li>
-{% endfor %}
-</ul>
+    {% endfor %}
+  </ul>
+</div>
