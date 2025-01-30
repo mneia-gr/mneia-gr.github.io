@@ -11,8 +11,11 @@ layout: default
   <h2>Τεύχη</h2>
   <ol>
     {% for issue in page.issues %}
-    <li><a href="/magazine-issues/{{ issue.id }}/?{{ issue.issue_number }}">{{ issue.issue_number }} ({{
-        issue.date_published }})</a></li>
+    <li itemprop="hasPart" itemscope itemtype="https://schema.org/PublicationIssue">
+      <a href="/magazine-issues/{{ issue.id }}/?{{ issue.issue_number }}">
+        <span itemprop="issueNumber">{{ issue.issue_number }}</span> ({{ issue.date_published }})
+      </a>
+    </li>
     {% endfor %}
   </ol>
   {% endif %}
