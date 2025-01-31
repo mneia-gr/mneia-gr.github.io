@@ -10,7 +10,6 @@ layout: default
   <h2>Σύνδεσμοι</h2>
 
   <h3>Πρόσωπα</h3>
-
   <ul>
     {% for link in page.links.people %}
     <li>
@@ -19,4 +18,14 @@ layout: default
     </li>
     {% endfor %}
   </ul>
+
+  <h2>Αναφορές</h2>
+  {% if page.references.magazine-issues.size > 0 %}
+  <h3>Τεύχη περιοδικών</h3>
+    <ul>
+      {% for reference in page.references.magazine-issues %}
+        {% include reference-magazine-issue-work.html reference=reference %}
+      {% endfor %}
+    </ul>
+  {% endif %}
 </div>
