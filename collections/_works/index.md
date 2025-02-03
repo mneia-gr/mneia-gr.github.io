@@ -4,7 +4,7 @@ permalink: "/works/"
 layout: "page"
 ---
 
-{% assign works = site.works | where_exp: "work", "work.url != '/works/'" %}
+{% assign works = site.works | where_exp: "work", "work.url != '/works/'" | sort: "name" %}
 <ul>
 {% for work in works %}
   <li>
