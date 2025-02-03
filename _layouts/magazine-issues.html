@@ -8,6 +8,7 @@ layout: default
   Τεύχος του περιοδικού
   «<a href="/magazines/{{ page.magazine.id}}/?{{ page.magazine.name }}">{{ page.magazine.name }}</a>»
   με ημερομηνία έκδοσης {{ page.date_published }}.
+  {% if page.pages_number %}{{ page.pages_number }} σελίδες.{% endif %}
 
   <h2>Αναφορές</h2>
 

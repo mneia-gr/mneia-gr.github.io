@@ -13,8 +13,9 @@ layout: default
     {% for issue in page.issues %}
     <li itemprop="hasPart" itemscope itemtype="https://schema.org/PublicationIssue">
       <a href="/magazine-issues/{{ issue.id }}/?{{ issue.issue_number }}">
-        <span itemprop="issueNumber">{{ issue.issue_number }}</span> ({{ issue.date_published }})
+        <span itemprop="issueNumber">{{ issue.issue_number }}</span>
       </a>
+      ({{ issue.date_published }}{% if issue.pages_number %}, {{ issue.pages_number }} σελίδες{% endif %})
     </li>
     {% endfor %}
   </ol>
