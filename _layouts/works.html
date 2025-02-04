@@ -2,30 +2,33 @@
 layout: default
 ---
 
-<div itemscope itemtype="https://schema.org/CreativeWork">
+<article class="work" itemscope itemtype="https://schema.org/CreativeWork">
   <h1 itemprop="name">{{ page.name }}</h1>
 
-  <div itemprop="text">{{ page.content }}</div>
+  {{ page.content }}
 
-  <h2>Σύνδεσμοι</h2>
-
-  <h3>Πρόσωπα</h3>
-  <ul>
-    {% for link in page.links.people %}
-    <li>
-      Work <i>{{ page.name }}</i> {{ link.link_phrase }} person
-      <a href="/people/{{ link.person.id }}/?{{ link.person.name }}">{{ link.person.name }}</a>.
-    </li>
-    {% endfor %}
-  </ul>
-
-  <h2>Αναφορές</h2>
-  {% if page.references.magazine-issues.size > 0 %}
-  <h3>Τεύχη περιοδικών</h3>
+  <aside class="links">
+    <h2>Σύνδεσμοι</h2>
+    <h3>Πρόσωπα</h3>
     <ul>
-      {% for reference in page.references.magazine-issues %}
-        {% include reference-magazine-issue-work.html reference=reference %}
+      {% for link in page.links.people %}
+      <li>
+        Work <i>{{ page.name }}</i> {{ link.link_phrase }} person
+        <a href="/people/{{ link.person.id }}/?{{ link.person.name }}">{{ link.person.name }}</a>.
+      </li>
       {% endfor %}
     </ul>
-  {% endif %}
-</div>
+  </aside>
+
+  <aside class="references">
+    <h2>Αναφορές</h2>
+    {% if page.references.magazine-issues.size > 0 %}
+    <h3>Τεύχη περιοδικών</h3>
+    <ul>
+      {% for reference in page.references.magazine-issues %}
+      {% include reference-magazine-issue-work.html reference=reference %}
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </aside>
+</article>

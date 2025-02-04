@@ -27,6 +27,7 @@ references:
 type: Άρθρο
 ---
 
+<main class="content" itemprop="text">
 <ol style="list-style-type: none">
   <li>
     <b>Γαϊδούρι.</b> Ζώον τετράποδο ή και... δίποδο που τρώει πολλά άχυρα και περισσότερο... ξύλο. Χρησιμεύει για
@@ -116,4 +117,4 @@ type: Άρθρο
     συνεδριάσεις.
   </li>
 </ol>
-
+</main>
