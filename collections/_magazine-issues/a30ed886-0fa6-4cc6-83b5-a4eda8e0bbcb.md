@@ -8,5 +8,6 @@ pages_number: 8
 references:
   photographs: []
   works: []
+title: 7ον Τεύχος - Μεγάλη Ελληνική Εγκυκλοπαίδεια
 ---
 

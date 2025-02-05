@@ -8,5 +8,6 @@ pages_number: 8
 references:
   photographs: []
   works: []
+title: 31ον Τεύχος - Μεγάλη Ελληνική Εγκυκλοπαίδεια
 ---
 
