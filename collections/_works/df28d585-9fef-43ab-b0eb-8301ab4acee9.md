@@ -24,6 +24,7 @@ references:
       id: df28d585-9fef-43ab-b0eb-8301ab4acee9
       name: Νοσταλγία
       type: Ποίημα
+title: Νοσταλγία
 type: Ποίημα
 ---
 

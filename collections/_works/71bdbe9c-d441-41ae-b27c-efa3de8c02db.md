@@ -24,6 +24,7 @@ references:
       id: 71bdbe9c-d441-41ae-b27c-efa3de8c02db
       name: Από την εγκυκλοπαίδειάν μου
       type: Άρθρο
+title: Από την εγκυκλοπαίδειάν μου
 type: Άρθρο
 ---
 

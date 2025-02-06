@@ -24,6 +24,7 @@ references:
       id: f4a563aa-b651-4bbf-9c1a-7f77d4ecac4c
       name: Νυκτερινό... Ίντερβιου
       type: Διήγημα
+title: Νυκτερινό... Ίντερβιου
 type: Διήγημα
 ---
 
