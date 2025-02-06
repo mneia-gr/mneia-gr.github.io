@@ -1,5 +1,5 @@
 ---
-title: Works
+title: Έργα
 permalink: "/works/"
 layout: "page"
 ---

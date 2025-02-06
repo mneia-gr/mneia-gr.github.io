@@ -1,5 +1,5 @@
 ---
-title: People
+title: Πρόσωπα
 permalink: "/people/"
 layout: "page"
 ---

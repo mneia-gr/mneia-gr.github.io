@@ -1,5 +1,5 @@
 ---
-title: Magazines
+title: Περιοδικά
 permalink: "/magazines/"
 layout: "page"
 ---
