@@ -32,4 +32,17 @@ layout: default
     {% endfor %}
   </ul>
   {% endif %}
+
+  {% if page.links.books.size > 0 %}
+  <h3>Βιβλία</h3>
+
+  <ul>
+    {% for link in page.links.books %}
+    <li>
+      Person {{ page.name }} {{ link.link_phrase }} book
+      <a href="/books/{{ link.book.id }}/?{{ link.book.name }}">{{ link.book.name }}</a>.
+    </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
 </div>
