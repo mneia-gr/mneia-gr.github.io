@@ -69,6 +69,8 @@ collections:
     output: true
   works:
     output: true
+  books:
+    output: true
 
 defaults:
   - scope:
@@ -96,3 +98,8 @@ defaults:
       type: "works"
     values:
       layout: "works"
+  - scope:
+      path: ""
+      type: "books"
+    values:
+      layout: "books"
