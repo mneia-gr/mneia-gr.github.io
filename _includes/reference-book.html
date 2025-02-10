@@ -1,0 +1,17 @@
+<li>
+  {% for author in reference.book.authors %}
+  <a href="/people/{{ author.id }}/?{{ author.name }}">{{ author.name }}</a>,
+  {% endfor %}
+
+  ({{ reference.book.publication_date_year }}).
+
+  <a href="/books/{{ reference.book.id }}/?{{ reference.book.name }}">
+    <i>{{ reference.book.name }}</i>.
+  </a>
+
+  {{ reference.book.edition }}.
+  {{ reference.book.area }}:
+
+  <a href="/publishers/{{ reference.publisher.id }}/?{{ reference.publisher.name }}">
+    {{ reference.publisher.name }}</a>.
+</li>

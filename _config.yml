@@ -71,6 +71,8 @@ collections:
     output: true
   books:
     output: true
+  publishers:
+    output: true
 
 defaults:
   - scope:
@@ -103,3 +105,8 @@ defaults:
       type: "books"
     values:
       layout: "books"
+  - scope:
+      path: ""
+      type: "publishers"
+    values:
+      layout: "publishers"

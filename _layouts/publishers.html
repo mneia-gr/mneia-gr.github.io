@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<article class="book" itemscope itemtype="https://schema.org/Organization">
+  <h1 itemprop="name">{{ page.name }}</h1>
+
+  {{ page.content }}
+
+  <aside class="references">
+    <h2>Βιβλιογραφικές αναφορές</h2>
+    {% if page.references.books.size > 0 %}
+    <ul>
+      {% for reference in page.references.books %}
+      {% include reference-book.html reference=reference %}
+      {% endfor %}
+    </ul>
+    {% endif %}
+  </aside>
+</article>
