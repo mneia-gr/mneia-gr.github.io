@@ -10,7 +10,7 @@ links:
       name: Μανώλης Ρασούλης
 name: Εδώ είναι του Ρασούλη
 pages_number: 576
-publication_date_year: 2007
+publication_date: Ιανουάριος 2007
 references:
   publishers:
   - book:
@@ -21,7 +21,7 @@ references:
       edition: 1η έκδοση
       id: 6d0c68ec-b6f7-4db5-9aef-9c65cade2cf7
       name: Εδώ είναι του Ρασούλη
-      publication_date_year: 2007
+      publication_date: Ιανουάριος 2007
     publisher:
       id: 9b5532e6-093d-4266-979d-643a140e9876
       name: Εκδόσεις IANOS
