@@ -3,6 +3,10 @@
   <a href="/people/{{ author.id }}/?{{ author.name }}">{{ author.name }}</a>,
   {% endfor %}
 
+  {% for editor in reference.book.editors %}
+  <a href="/people/{{ editor.id }}/?{{ editor.name }}">{{ editor.name }}</a> (<abbr title="επιμέλεια">επ.</abbr>),
+  {% endfor %}
+
   ({{ reference.book.publication_date }}).
 
   <a href="/books/{{ reference.book.id }}/?{{ reference.book.name }}">
