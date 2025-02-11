@@ -9,6 +9,7 @@ references:
         name: Τρούσας, Φώντας
       edition: Β' έκδοση - αναθεωρημένη
       id: 88f1e125-bc03-4379-9275-f3fed973a216
+      isbn: '9786188694941'
       name: Ραντεβού στο Κύτταρο
       publication_date: Απρίλιος 2024
     publisher:

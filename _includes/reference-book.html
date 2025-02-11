@@ -14,4 +14,9 @@
 
   <a href="/publishers/{{ reference.publisher.id }}/?{{ reference.publisher.name }}">
     {{ reference.publisher.name }}</a>.
+  
+  {% if reference.book.isbn %}
+  <abbr title="International Standard Book Number">ISBN</abbr>:
+  {{ reference.book.isbn }}.
+  {% endif %}
 </li>

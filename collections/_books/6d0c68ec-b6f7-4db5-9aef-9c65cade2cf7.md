@@ -20,6 +20,7 @@ references:
         name: Ρασούλης, Μανώλης
       edition: 1η έκδοση
       id: 6d0c68ec-b6f7-4db5-9aef-9c65cade2cf7
+      isbn: '9789607827661'
       name: Εδώ είναι του Ρασούλη
       publication_date: Ιανουάριος 2007
     publisher:
