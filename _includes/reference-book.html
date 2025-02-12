@@ -1,19 +1,24 @@
 <li>
   {% for author in reference.book.authors %}
-  <a href="/people/{{ author.id }}/?{{ author.name }}">{{ author.name }}</a>,
+  <a href="/people/{{ author.id }}/?{{ author.name }}">
+    {{ author.name }}
+  </a>{% unless forloop.last or reference.book.editors.size > 0 %},{% endunless %}
   {% endfor %}
 
   {% for editor in reference.book.editors %}
-  <a href="/people/{{ editor.id }}/?{{ editor.name }}">{{ editor.name }}</a> (<abbr title="επιμέλεια">επ.</abbr>),
+  <a href="/people/{{ editor.id }}/?{{ editor.name }}">{{ editor.name }}</a>
+  (<abbr title="επιμέλεια">επ.</abbr>){% unless forloop.last %},{% endunless %}
   {% endfor %}
-
-  ({{ reference.book.publication_date }}).
+  
+  {% if reference.book.publication_date %}
+  ({{ reference.book.publication_date }}){% endif %}.
 
   <a href="/books/{{ reference.book.id }}/?{{ reference.book.name }}">
     <i>{{ reference.book.name }}</i></a>.
 
   {{ reference.book.edition }}.
-  {{ reference.book.area }}:
+  
+  {% if reference.book.area %}{{ reference.book.area }}:{% endif %}
 
   <a href="/publishers/{{ reference.publisher.id }}/?{{ reference.publisher.name }}">
     {{ reference.publisher.name }}</a>.

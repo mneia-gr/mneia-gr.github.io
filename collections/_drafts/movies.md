@@ -16,9 +16,11 @@ A list of movies and TV series in which music is prominent. One day this might b
 * [Annie](https://www.imdb.com/title/tt1823664/) [2014]
 
 <!-- B -->
+* [Bananaz](https://www.imdb.com/title/tt1168773/) [2008]
 * [Bird](https://www.imdb.com/title/tt0094747/) [1988]
 * [Black Nativity](https://www.imdb.com/title/tt1425922/) [2013]
 * [Blues Brothers 2000](https://www.imdb.com/title/tt0118747/) [1998]
+* [Bob Dylan: Dont Look Back](https://www.imdb.com/title/tt0061589/) [1967]
 * [Bound for Glory](https://www.imdb.com/title/tt0074235/) [1976]
 * [By the Light of the Silvery Moon](https://www.imdb.com/title/tt0045586/) [1953]
 * [Bye Bye Birdie](https://www.imdb.com/title/tt0056891/) [1963]
@@ -28,6 +30,7 @@ A list of movies and TV series in which music is prominent. One day this might b
 * [Calamity Jane](https://www.imdb.com/title/tt0045591/) [1953]
 * [Camp](https://www.imdb.com/title/tt0342167/) [2003]
 * [Carmen Jones](https://www.imdb.com/title/tt0046828/) [1954]
+* [Cobain: Montage of Heck](https://www.imdb.com/title/tt4229236/) [2015]
 * [Control](https://www.imdb.com/title/tt0421082/) [2007]
 * [Cover Girl](https://www.imdb.com/title/tt0035583/) [1944]
 * [Chicago](https://www.imdb.com/title/tt0299658/) [2002]
@@ -82,12 +85,16 @@ A list of movies and TV series in which music is prominent. One day this might b
 * [Les Miserables](https://www.imdb.com/title/tt0077936/) [1978]
 * [Les Misérables](https://www.imdb.com/title/tt1707386/) [2012]
 * [Little Voice](https://www.imdb.com/title/tt0147004/) [1998]
+* [Live! In Tune and On Time](https://www.imdb.com/title/tt11286478/) [2004]
 * [Love & Mercy](https://www.imdb.com/title/tt0903657/) [2014]
+* [Lord Don't Slow Me Down](https://www.imdb.com/title/tt1167522/) [2007]
 
 <!-- M -->
 * [Mamma Mia!](https://www.imdb.com/title/tt0795421/) [2008]
+* [Marley](https://www.imdb.com/title/tt1183919/) [2012]
 * [Mary Poppins](https://www.imdb.com/title/tt0058331/) [1964]
 * [Meet Me in St. Louis](https://www.imdb.com/title/tt0037059/) [1944]
+* [Michel Gondry: Do it Yourself!](https://www.imdb.com/title/tt26768067/) [2023]
 * [Moonwalker](https://www.imdb.com/title/tt0095655/) [1988]
 * [Moulin Rouge!](https://www.imdb.com/title/tt0203009/) [2001]
 * [My Fair Lady](https://www.imdb.com/title/tt0058385/) [1964]
@@ -95,8 +102,10 @@ A list of movies and TV series in which music is prominent. One day this might b
 <!-- N -->
 * [New York, New York](https://www.imdb.com/title/tt0076451/) [1977]
 * [Newsies](https://www.imdb.com/title/tt0104990/) [1992]
+* [Nirvana: Live at Reading](https://www.imdb.com/title/tt3189338/) [2009]
 
 <!-- O -->
+* [Oasis: Supersonic](https://www.imdb.com/title/tt5213534/) [2016]
 * [Oklahoma!](https://www.imdb.com/title/tt0048445/) [1955]
 * [Oliver!](https://www.imdb.com/title/tt0063385/) [1968]
 * [Omnibus](https://www.imdb.com/title/tt0200358/) [1967-2003]
@@ -113,6 +122,7 @@ A list of movies and TV series in which music is prominent. One day this might b
 <!-- S -->
 * [Saturday Night Fever](https://www.imdb.com/title/tt0076666/) [1977]
 * [Scott Walker: 30 Century Man](https://www.imdb.com/title/tt0486541/) [2006]
+* [Screamadelica Live](https://www.imdb.com/title/tt2285677/) [2011]
 * [Searching for Sugar Man](https://www.imdb.com/title/tt2125608/) [2012]
 * [Selena](https://www.imdb.com/title/tt0120094/) [1997]
 * [Seven Brides for Seven Brothers](https://www.imdb.com/title/tt0047472/) [1954]
@@ -130,6 +140,7 @@ A list of movies and TV series in which music is prominent. One day this might b
 * [The Blues Brothers](https://www.imdb.com/title/tt0080455/) [1980]
 * [The Commitments](https://www.imdb.com/title/tt0101605/) [1991]
 * [The Doors](https://www.imdb.com/title/tt0101761/) [1991]
+* [The Fearless Freaks](https://www.imdb.com/title/tt0441758/) [2005]
 * [The Filth and the Fury](https://www.imdb.com/title/tt0236216/) [2000]
 * [The Five Heartbeats](https://www.imdb.com/title/tt0101891/) [1991]
 * [The Jacksons: An American Dream](https://www.imdb.com/title/tt0104541/) [1992]
@@ -140,6 +151,7 @@ A list of movies and TV series in which music is prominent. One day this might b
 * [The Rocky Horror Picture Show](https://www.imdb.com/title/tt0073629/) [1975]
 * [The Rolling Stones: Cocksucker Blues](https://www.imdb.com/title/tt0068389/) [1972]
 * [The Sound of Music](https://www.imdb.com/title/tt0059742/) [1965]
+* [The Stone Roses: Made of Stone](https://www.imdb.com/title/tt2126403/) [2013]
 * [The Temptations](https://www.imdb.com/title/tt0164292/) [1998]
 * [The Young Ones](https://www.imdb.com/title/tt0083505/) [1982-1984]
 * [The Wiz](https://www.imdb.com/title/tt0078504/) [1978]
@@ -148,6 +160,7 @@ A list of movies and TV series in which music is prominent. One day this might b
 * [This Is Spinal Tap](https://www.imdb.com/title/tt0088258/) [1984]
 * [Tina Turner - My Songs. My Life](https://www.imdb.com/title/tt33045349/) [2024]
 * [Tony Bennett: An American Classic](https://www.imdb.com/title/tt0830682/) [2006]
+* [Tupac: Resurrection](https://www.imdb.com/title/tt0343121/) [2003]
 * [Tupac Shakur: Before I Wake...](https://www.imdb.com/title/tt0290142/) [2001]
 
 <!-- U -->
