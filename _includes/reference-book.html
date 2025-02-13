@@ -1,8 +1,7 @@
 <li>
   {% for author in reference.book.authors %}
   <a href="/people/{{ author.id }}/?{{ author.name }}">
-    {{ author.name }}
-  </a>{% unless forloop.last or reference.book.editors.size > 0 %},{% endunless %}
+    {{ author.name }}</a>{% if forloop.last and reference.book.editors.size == 0 %}{% else %},{% endif %}
   {% endfor %}
 
   {% for editor in reference.book.editors %}

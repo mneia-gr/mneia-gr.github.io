@@ -13,7 +13,7 @@ layout: default
     <ul>
       {% for link in page.links.people %}
       <li>
-        Book <i>{{ page.name }}</i> {{ link.link_phrase }} person
+        Book <i>{{ page.name }}</i> {{ link.link_phrase }}
         <a href="/people/{{ link.person.id }}/?{{ link.person.name }}">{{ link.person.name }}</a>.
       </li>
       {% endfor %}
