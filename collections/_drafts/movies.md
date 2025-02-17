@@ -189,6 +189,7 @@ A list of movies and TV series in which music is prominent. One day this might b
 * [You Were Never Lovelier](https://www.imdb.com/title/tt0035583/) [1942]
 
 <!-- Z -->
+* [Zappa](https://www.imdb.com/title/tt4881578/) [2020]
 
 <!-- Meta
 
