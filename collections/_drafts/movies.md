@@ -1,5 +1,27 @@
 A list of movies and TV series in which music is prominent. One day this might become a blog post. Links to IMDb.
 
+<table>
+  <thead>
+    <tr>
+      <th>Τίτλος</th>
+      <th>Σημειώσεις</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://www.imdb.com/title/tt2920540/">
+          20,000 Days on Earth
+        </a> (2014)
+      </td>
+      <td>
+        Εν μέρει βιογραφικό ντοκυμαντέρ και εν μέρει μυθοπλασία, στην οποία ο θεατής ακολουθεί τον Nick Cave για μια
+        μέρα, υποτίθεται την εικοστή χιλιοστή μέρα της ζωής του (γύρω στα 55 χρόνια).
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <!-- # -->
 * [20,000 Days on Earth](https://www.imdb.com/title/tt2920540/) [2014]
 * [24 Hour Party People](https://www.imdb.com/title/tt0274309/) [2002]
