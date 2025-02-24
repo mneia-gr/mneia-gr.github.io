@@ -10,28 +10,39 @@ A list of movies and TV series in which music is prominent. One day this might b
   <tbody>
     <tr>
       <td>
-        <a href="https://www.imdb.com/title/tt2920540/">
-          20,000 Days on Earth
-        </a> (2014)
+        <a href="https://www.imdb.com/title/tt2920540/">20,000 Days on Earth</a> (2014)
       </td>
       <td>
         Εν μέρει βιογραφικό ντοκυμαντέρ και εν μέρει μυθοπλασία, στην οποία ο θεατής ακολουθεί τον Nick Cave για μια
         μέρα, υποτίθεται την εικοστή χιλιοστή μέρα της ζωής του (γύρω στα 55 χρόνια).
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://www.imdb.com/title/tt0274309/">24 Hour Party People</a> (2002)
+      </td>
+      <td>
+        Δραματοποιημένη βιογραφία του Tony Wilson, για την συνεισφορά του στο Βρετανικό punk και new wave.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.imdb.com/title/tt0024034/">42nd Street</a> (1933)
+      </td>
+      <td>Προετοιμασίες και πρόβες για ένα καινούριο μιούζικαλ, στον απαιτητικό κόσμο του Broadway.</td>
+    </tr>
   </tbody>
 </table>
 
 <!-- # -->
-* [20,000 Days on Earth](https://www.imdb.com/title/tt2920540/) [2014]
-* [24 Hour Party People](https://www.imdb.com/title/tt0274309/) [2002]
-* [42nd Street](https://www.imdb.com/title/tt0024034/) [1933]
+* [20 Feet from Stardom](https://www.imdb.com/title/tt2396566/) [2013]
 
 <!-- A -->
 * [A Mighty Wind](https://www.imdb.com/title/tt0310281/) [2003]
 * [A Star Is Born](https://www.imdb.com/title/tt0047522/) [1954]
 * [All That Jazz](https://www.imdb.com/title/tt0078754/) [1979]
 * [All That Jazz: Reinking and Foldi](https://www.imdb.com/title/tt6240610/) [2014]
+* [Amazing Grace](https://www.imdb.com/title/tt4935462/) [2018]
 * [Amy](https://www.imdb.com/title/tt2870648/) [2015]
 * [An American in Paris](https://www.imdb.com/title/tt0043278/) [1951]
 * [Annie](https://www.imdb.com/title/tt0083564/) [1982]
@@ -58,8 +69,11 @@ A list of movies and TV series in which music is prominent. One day this might b
 * [Chicago](https://www.imdb.com/title/tt0299658/) [2002]
 
 <!-- D -->
+* [Devo](https://www.imdb.com/title/tt27210519/) [2024]
 * [Dirty Dancing](https://www.imdb.com/title/tt0092890/) [1987]
+* [Distant Sky: Nick Cave & The Bad Seeds Live in Copenhagen](https://www.imdb.com/title/tt8217244/) [2018]
 * [Dreamgirls](https://www.imdb.com/title/tt0443489/) [2006]
+* [Dreamin' Wild](https://www.imdb.com/title/tt10245106/) [2022]
 
 <!-- E -->
 * [Evita](https://www.imdb.com/title/tt0116250/) [1996]
@@ -73,6 +87,7 @@ A list of movies and TV series in which music is prominent. One day this might b
 * [Get on Up](https://www.imdb.com/title/tt2473602/) [2014]
 * [George Michael Freedom: The Director's Cut](https://www.imdb.com/title/tt8000146/) [2018]
 * [Gigi](https://www.imdb.com/title/tt0051658/) [1958]
+* [Gimme Danger](https://www.imdb.com/title/tt1714917/) [2016]
 * [Grease](https://www.imdb.com/title/tt0077631/) [1978]
 * [Guys and Dolls](https://www.imdb.com/title/tt0048140/) [1955]
 
@@ -88,6 +103,7 @@ A list of movies and TV series in which music is prominent. One day this might b
 * [Homecoming: A Film by Beyoncé](https://www.imdb.com/title/tt10147546/) [2019]
 
 <!-- I -->
+* [Idiot Prayer](https://www.imdb.com/title/tt12721126/) [2020]
 * [I'm Not There](https://www.imdb.com/title/tt0368794/) [2007]
 * [Into the Woods](https://www.imdb.com/title/tt2180411/) [2014]
 
@@ -104,8 +120,10 @@ A list of movies and TV series in which music is prominent. One day this might b
 * [La Bamba](https://www.imdb.com/title/tt0093378/) [1987]
 * [La Vie En Rose](https://www.imdb.com/title/tt0450188/) [2007]
 * [Latcho Drom](https://www.imdb.com/title/tt0107376/) [1993]
+* [Leonard Cohen: I'm Your Man](https://www.imdb.com/title/tt0478197/) [2005]
 * [Les Miserables](https://www.imdb.com/title/tt0077936/) [1978]
 * [Les Misérables](https://www.imdb.com/title/tt1707386/) [2012]
+* [Little Richard: I Am Everything](https://www.imdb.com/title/tt13885492/) [2023]
 * [Little Voice](https://www.imdb.com/title/tt0147004/) [1998]
 * [Live! In Tune and On Time](https://www.imdb.com/title/tt11286478/) [2004]
 * [Love & Mercy](https://www.imdb.com/title/tt0903657/) [2014]
@@ -119,6 +137,7 @@ A list of movies and TV series in which music is prominent. One day this might b
 * [Michel Gondry: Do it Yourself!](https://www.imdb.com/title/tt26768067/) [2023]
 * [Moonwalker](https://www.imdb.com/title/tt0095655/) [1988]
 * [Moulin Rouge!](https://www.imdb.com/title/tt0203009/) [2001]
+* [Mutiny in Heaven: The Birthday Party](https://www.imdb.com/title/tt28452303/) [2023]
 * [My Fair Lady](https://www.imdb.com/title/tt0058385/) [1964]
 
 <!-- N -->
@@ -131,9 +150,11 @@ A list of movies and TV series in which music is prominent. One day this might b
 * [Oklahoma!](https://www.imdb.com/title/tt0048445/) [1955]
 * [Oliver!](https://www.imdb.com/title/tt0063385/) [1968]
 * [Omnibus](https://www.imdb.com/title/tt0200358/) [1967-2003]
+* [One More Time with Feeling](https://www.imdb.com/title/tt5777628/) [2016]
 
 <!-- P -->
 * [Pitch Perfect](https://www.imdb.com/title/tt1981677/) [2012]
+* [Priscilla](https://www.imdb.com/title/tt22041854/) [2023]
 
 <!-- Q -->
 * [Queen: Days of Our Lives](https://www.imdb.com/title/tt1977894/) [2011]
@@ -149,15 +170,19 @@ A list of movies and TV series in which music is prominent. One day this might b
 * [Selena](https://www.imdb.com/title/tt0120094/) [1997]
 * [Seven Brides for Seven Brothers](https://www.imdb.com/title/tt0047472/) [1954]
 * [Sex & Drugs & Rock & Roll](https://www.imdb.com/title/tt1393020/) [2010]
+* [Sid and Nancy](https://www.imdb.com/title/tt0091954/) [1986]
 * [Singin' in the Rain](https://www.imdb.com/title/tt0045152/) [1952]
 * [Sister Act 2: Back in the Habit](https://www.imdb.com/title/tt0108147/) [1993]
 * [Sparkle](https://www.imdb.com/title/tt1876451/) [2012]
 * [State Fair](https://www.imdb.com/title/tt0056526/) [1962]
+* [STAX: Soulsville, U.S.A.](https://www.imdb.com/title/tt19891206/) [2024]
 * [Straight Outta Compton](https://www.imdb.com/title/tt1398426/) [2015]
 * [Strictly Ballroom](https://www.imdb.com/title/tt0105488/) [1992]
+* [Summer of Soul (...Or, When the Revolution Could Not Be Televised)](https://www.imdb.com/title/tt11422728/) [2021]
 * [Sweeney Todd: The Demon Barber of Fleet Street](https://www.imdb.com/title/tt0408236/) [2007]
 
 <!-- T -->
+* [Teaches of Peaches](https://www.imdb.com/title/tt30953834/) [2024]
 * [That Thing You Do!](https://www.imdb.com/title/tt0117887/) [1996]
 * [The Blues Brothers](https://www.imdb.com/title/tt0080455/) [1980]
 * [The Commitments](https://www.imdb.com/title/tt0101605/) [1991]
@@ -165,6 +190,7 @@ A list of movies and TV series in which music is prominent. One day this might b
 * [The Fearless Freaks](https://www.imdb.com/title/tt0441758/) [2005]
 * [The Filth and the Fury](https://www.imdb.com/title/tt0236216/) [2000]
 * [The Five Heartbeats](https://www.imdb.com/title/tt0101891/) [1991]
+* [The Greatest Night in Pop](https://www.imdb.com/title/tt30796448/) [2024]
 * [The Jacksons: An American Dream](https://www.imdb.com/title/tt0104541/) [1992]
 * [The Kids Are Alright](https://www.imdb.com/title/tt0079400/) [1979]
 * [The King and I](https://www.imdb.com/title/tt0049408/) [1956]
@@ -180,6 +206,7 @@ A list of movies and TV series in which music is prominent. One day this might b
 * [The Wizard of Oz](https://www.imdb.com/title/tt0032138/) [1939]
 * [The Wrecking Crew!](https://www.imdb.com/title/tt1185418/) [2008]
 * [This Is Spinal Tap](https://www.imdb.com/title/tt0088258/) [1984]
+* [This Much I Know to Be True](https://www.imdb.com/title/tt15721828/) [2022]
 * [Tina Turner - My Songs. My Life](https://www.imdb.com/title/tt33045349/) [2024]
 * [Tony Bennett: An American Classic](https://www.imdb.com/title/tt0830682/) [2006]
 * [Tupac: Resurrection](https://www.imdb.com/title/tt0343121/) [2003]
