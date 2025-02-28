@@ -2,13 +2,15 @@
 layout: default
 ---
 
-<div itemscope itemtype="https://schema.org/PublicationIssue">
+<article class="magazineIssue" itemscope itemtype="https://schema.org/PublicationIssue">
   <h1 itemprop="issueNumber">{{ page.issue_number }}</h1>
 
-  Τεύχος του περιοδικού
-  «<a href="/magazines/{{ page.magazine.id}}/?{{ page.magazine.name }}">{{ page.magazine.name }}</a>»
-  με ημερομηνία έκδοσης {{ page.date_published }}.
-  {% if page.pages_number %}{{ page.pages_number }} σελίδες.{% endif %}
+  <p>
+    Τεύχος του περιοδικού
+    «<a href="/magazines/{{ page.magazine.id}}/?{{ page.magazine.name }}">{{ page.magazine.name }}</a>»
+    με ημερομηνία έκδοσης {{ page.date_published }}.
+    {% if page.pages_number %}{{ page.pages_number }} σελίδες.{% endif %}
+  </p>
 
   <h2>Βιβλιογραφικές παραπομπές</h2>
 
@@ -31,4 +33,4 @@ layout: default
     {% endfor %}
   </ul>
   {% endif %}
-</div>
+</article>

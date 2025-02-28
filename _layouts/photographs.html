@@ -2,23 +2,13 @@
 layout: default
 ---
 
-<div itemscope itemtype="https://schema.org/Photograph">
+<article itemscope itemtype="https://schema.org/Photograph">
   <h1 itemprop="name">{{ page.name }}</h1>
 
   {{ page.description }}
 
-  <h2>Αναφορές</h2>
-  <h3>Τεύχη περιοδικών</h3>
-
-  <ul>
-    {% for reference in page.references.magazine_issues %}
-    {% include reference-magazine-issue-photograph.html reference=reference %}
-    {% endfor %}
-  </ul>
-
   <h2>Σύνδεσμοι</h2>
   <h3>Πρόσωπα</h3>
-
   <ul>
     {% for link in page.links.people %}
     <li>
@@ -27,4 +17,12 @@ layout: default
     </li>
     {% endfor %}
   </ul>
-</div>
+
+  <h2>Βιβλιογραφικές παραπομπές</h2>
+  <h3>Τεύχη περιοδικών</h3>
+  <ul>
+    {% for reference in page.references.magazine_issues %}
+    {% include reference-magazine-issue-photograph.html reference=reference %}
+    {% endfor %}
+  </ul>
+</article>
