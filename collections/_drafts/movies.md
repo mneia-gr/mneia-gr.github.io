@@ -1,7 +1,5 @@
 A list of movies and TV series in which music is prominent. One day this might become a blog post. Links to IMDb.
 
-
-
 <table>
   <thead>
     <tr>
@@ -12,6 +10,12 @@ A list of movies and TV series in which music is prominent. One day this might b
   <tbody>
     <!-- # -->
     <tr><th colspan="2" style="text-align: center">#</th></tr>
+    <tr>
+      <td>
+        <a href="https://www.imdb.com/title/tt2396566/">20 Feet from Stardom</a> (2013)
+      </td>
+      <td>Ντοκυμαντέρ για τον σημαντικό ρόλο που παίζουν οι backup singers στη μουσική.</td>
+    </tr>
     <tr>
       <td>
         <a href="https://www.imdb.com/title/tt2920540/">20,000 Days on Earth</a> (2014)
@@ -47,15 +51,22 @@ A list of movies and TV series in which music is prominent. One day this might b
         παραγωγού. Πολλά γέλια.
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://www.imdb.com/title/tt0078754/">All That Jazz</a> (1979)
+      </td>
+      <td>
+        Ένας χορογράφος και σκηνοθέτης είναι αδύναμο σκαρί και χάνει τη σειρά του, είναι εμμονικός και
+        αυτοκαταστροφικός, ενώ ταυτόχρονα ετοιμάζει το πιο αριστουργηματικό του έργο.
+      </td>
+    </tr>
   </tbody>
 </table>
 
 <!-- # -->
-* [20 Feet from Stardom](https://www.imdb.com/title/tt2396566/) [2013]
 
 <!-- A -->
 * [A Star Is Born](https://www.imdb.com/title/tt0047522/) [1954]
-* [All That Jazz](https://www.imdb.com/title/tt0078754/) [1979]
 * [All That Jazz: Reinking and Foldi](https://www.imdb.com/title/tt6240610/) [2014]
 * [Amazing Grace](https://www.imdb.com/title/tt4935462/) [2018]
 * [Amy](https://www.imdb.com/title/tt2870648/) [2015]
@@ -141,6 +152,7 @@ A list of movies and TV series in which music is prominent. One day this might b
 * [Little Richard: I Am Everything](https://www.imdb.com/title/tt13885492/) [2023]
 * [Little Voice](https://www.imdb.com/title/tt0147004/) [1998]
 * [Live! In Tune and On Time](https://www.imdb.com/title/tt11286478/) [2004]
+* [Liza with a Z](https://www.imdb.com/title/tt0256153/) [1972]
 * [Love & Mercy](https://www.imdb.com/title/tt0903657/) [2014]
 * [Lord Don't Slow Me Down](https://www.imdb.com/title/tt1167522/) [2007]
 
